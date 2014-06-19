@@ -1,5 +1,7 @@
 # HTML Starter File
 
+[ ![Codeship Status for scottzirkel/html-starter](https://www.codeship.io/projects/518e8ee0-d9f8-0131-2e3f-2a27b6732ed0/status)](https://www.codeship.io/projects/24235)
+
 This is what I use to start most of my static sites or even the public files for
 frameworks or WordPress templates. It's very simple at the moment, I do plan on
 building it out further.
