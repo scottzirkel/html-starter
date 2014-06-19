@@ -1,7 +1,8 @@
 # HTML Starter File
 
 This is what I use to start most of my static sites or even the public files for
-frameworks or WordPress templates.
+frameworks or WordPress templates. It's very simple at the moment, I do plan on
+building it out further.
 
 Feel free to use this to start off any of your projects. I'll probably be adding
 resources and elements as needed. If you find it helpful, fork it and customize
